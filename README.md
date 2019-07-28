@@ -16,7 +16,6 @@ alias docker-exec="{Absolute path to repo}/docker-exec-shortcut/execute.sh $1"
 source ~/.bash_profile
 ```
 # Example
-Output of the following command
 ```
 docker ps 
 ```
