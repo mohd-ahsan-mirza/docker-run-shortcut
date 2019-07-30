@@ -1,6 +1,6 @@
 # Description
 Right now in order to enter a running docker container you will have to type ```docker ps``` and then grab the image name or ID and then run ```docker exec -it <Image name or ID> bash```
-With this script all you need to pass in the image name as an argument, and if a container is running using that image, you will enter that image
+With this script all you need to pass in the image name as an argument, and if a container is running using that image, you will enter that container
 # Setup
 * Clone the repo
 * CD in the directory where the repo exists and run the following command
